@@ -1,0 +1,14 @@
+
+{                                                                   
+            "name": "be.elab.3dbenchy",          
+    "references": [
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [],                                                  
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   
