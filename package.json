@@ -5,8 +5,7 @@
   "version": "0.0.1",                         
   "unity": "2018.1",                             
   "unityRelease": "",                             
-  "description": "The 3D Benchy boat  for 3D printer in aim to make boat game with it. The code of the boat is in an other package. This one is about having some 3D parts.
-",                         
+  "description": "The 3D Benchy boat  for 3D printer in aim to make boat game with it. The code of the boat is in an other package. This one is about having some 3D parts.",                         
   "keywords": ["Script","Tool"],                       
   "dependencies":{},     
   "relatedPackages":{},     
